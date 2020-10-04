@@ -33,5 +33,6 @@ nav {
   border: 2px solid black;
   border-radius: 50%;
   position: absolute;
-  
+  transform: translate(-50%, -50%);
+  pointer-events: none;
 }
